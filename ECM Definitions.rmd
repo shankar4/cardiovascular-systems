@@ -12,4 +12,8 @@ arrest the extent of damage.
 
 The means for these processes are as follows:
 * *Growth* - an increase in mass that is achieved locally via an increase in the number (e.g., via proliferation, hyperplasis, or migration) or size (hypertrophy) of cells and/or via a synthesis of extracellular matrix that exceeds removal; growth may or may not change the mass density or material properties. 
-* _Atrophy_ 
+* _Atrophy_ -  a decrease in mass that is achieved locally via cell death (necrosis or increased apoptosis) or cell migration, and/or a degradation of intracellular components or extracellular matrix that exceeds synthesis; for this reason,, atrophy can be thought of as "negative growth" and it is often not mentioned explicitly. 
+* *Remodeling* - a change in structure (intracellular, cellular, or extracellular) that is achieved by reorganizing existing constituents (e.g., altered orientation or cross-linking) or by synthesizing new consituens that have a different organization; remodeling may or may not alter the mass density, but it does change other material properties such as stiffness or symmetry. 
+
+The authors also define adapation as follows: 
+* *Adaptation* - any acute or chronic change in the state, properties, structure, or mass of a molecule, cell, tissue, organ, or organism that is in response to a change in environment. Adaptation may occur via the process of growth and remodeling as well as via changes in vasoactivity, hydration level, etc. 
