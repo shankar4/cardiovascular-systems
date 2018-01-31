@@ -1,0 +1,11 @@
+From "A constrained mixture model for growth and remodeling of soft tissues" by J. D. Humphrey and K.R. Rajagopal, Mathematical Modeling 
+and Methods in Applied Sciences, Vol. 12, No. 3, 2002, 407-430.  This *bold*
+
+1. *Development* - genetically programmed and adaptive processes through which a fertilized egg becomes a mature organism; these processes
+involve changes in mass, local structure, and properties and can result in either  normal or abnormal tissue. 
+2. _Maintenance_ - normal programmed or adaptive processes during maturity that consist of a balanced turnover of cells and extracellular 
+matrix at an unchanging configuration or subset of configuations; hence, there is no net change in mass, structure, or properties. 
+3. _Aging_ - gradual changes in structure, properties, and/or mass that follow maturation and are independent of disease or injury but
+nevertheless lead to an increasing probability of death. 
+4. _Healing_ - changes in mass, structure, and/or properties in response to disease or injury that serve to restore function or at least to
+arrest the extent of damage. 
