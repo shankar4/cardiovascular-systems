@@ -1,5 +1,5 @@
 # cardiovascular-systems
-## Noninvasive Diagnostics for early intervention and post-MI followup. \
+## Noninvasive Diagnostics for early intervention and post-MI followup.\
 I have several US patents on early and noninvasive detection of atherosclerosis, the cause behind heart attacks and strokes. It is my goal to refine my earlier method to build a simple and low cost system for providing relevant health care alerts sufficiently ahead of time to prevent adverse events, both before and after a myocardial event.\
 
 1. First, I gained familiarity with the physionet databases ('PhysioBank') available here: https://www.physionet.org/physiobank/about.shtml . Linux installation instructions for their open source software are provided here: https://www.physionet.org/physiotools/wfdb-linux-quick-start.shtml . Here is a reference paper on the database and toolkit: http://circ.ahajournals.org/content/101/23/e215.full . I have installed their software on my Ubuntu system. I downloaded and saved their script for downloading relevant ECG datasets. It is called Make-Data. Save it with .sh extension. I then installed the 15 datasets with this command: bash Make-Data.sh
