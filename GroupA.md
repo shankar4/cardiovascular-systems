@@ -18,11 +18,11 @@ The authors list mouse genes; my focus here is human genes. So, I have downloade
 6. TGF-Beta: https://www.ncbi.nlm.nih.gov/gene/7040
 7. Cadherins: https://en.wikipedia.org/wiki/Cadherin
 8. Catenins: https://www.ncbi.nlm.nih.gov/gene/1499
-9. Collagens
-10. Connexins
-11. Ephtins
-12. FGF
-13. Fironectin
+9. Collagens: https://www.ncbi.nlm.nih.gov/books/NBK21582/
+10. Connexins: https://biosignaling.biomedcentral.com/articles/10.1186/1478-811X-7-4
+11. Ephrins: https://www.ncbi.nlm.nih.gov/gene/1942
+12. FGF: 
+13. Fibronectin: http://jcs.biologists.org/content/joces/115/20/3861.full.pdf
 14. Endothelial Cell Markers
 15. Integrins
 16. Laminins
@@ -38,3 +38,9 @@ The authors list mouse genes; my focus here is human genes. So, I have downloade
 Cadherins (From Wikipedia): Cell adhesion molecule (CAM) that is important ...to bind cells with each other. Cadherins are a class of type-1 transmembrane proteins, dependent on calcium (Ca2+) ions to function. <br><br>
 
 Catenins: The protein encoded constitute adherens junctions (AJs). AJs are necessary for the creation and maintenance of epithelial cell layers by regulating cell growth and adhesion between cells. The encoded protein also anchors the actin cytoskeleton and may be responsible for transmitting the contact inhibition signal that causes cells to stop dividing once the epithelial sheet is complete. Mutations of the APC gene (Catenins bind to APC gene products) are a cause of colorectal cancer (CRC), pilomatrixoma (PTR), medulloblastoma (MDB), and ovarian cancer. 
+
+Ephrin: Gene ephrin A1 encodes a member of the ephrin (EPH) family. The ephrins and EPH-related receptors comprise the largest subfamily of receptor protein-tyrosine kinases and have been implicated in mediating developmental events, especially in the nervous system and in erythropoiesis. 
+
+FGFs (from Wiki): FGFs are multifunctional proteins with a wide variety of effects; they are most commonly mitogens but also have regulatory, morphological, and endocrine effects. They stimulate blood vessel growth, and are important in wound healing. <br><br>
+Fibronectin: (From Wiki) -  Fibronectin is a high-molecular weight (~440kDa) glycoprotein of the extracellular matrix that binds to membrane-spanning receptor proteins called integrins. Similar to integrins, fibronectin binds extracellular matrix components such as collagen, fibrin, and heparan sulfate proteoglycans. Dysregulation of the FGF signalling system underlies a range of diseases, where inhibitors of FGF signalling have shown clinical efficacy. <br><br>
+
