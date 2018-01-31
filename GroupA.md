@@ -2,6 +2,7 @@ This grouping is from the chapter by McLeon, Mecham, et al., on "Extracellular m
 in a book entitled "Extracellular Matrix in Development and Disease" edited by J.H. Miner, Elsevier, 2005.
 
 (Note: How to add tables in md: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Note: Elseview publishes a journal called: Matrix Biology (of relevance here). 
 
 Ontology annotations of the Gene Ontology Database are used in the grouping. The GO database has three ontologies that take 3 
 different perspecives: molecular function (**MF**) (tasks performed by individual gene products); biological process (**BP**) (broad biological goals that are assembled by ordered assemblies of molecular functions); and cellular components (**CC**) (subcellular structures, locations, and macromolecular complexes). The genes listed include ECM genes, matrix metalloproteinases (MMPs) and related genes, growth factors, signal transduction genes, genes identified as SMC markers and endothelial cell markers.
@@ -21,13 +22,13 @@ The authors list mouse genes; my focus here is human genes. So, I have downloade
 9. Collagens: https://www.ncbi.nlm.nih.gov/books/NBK21582/
 10. Connexins: https://biosignaling.biomedcentral.com/articles/10.1186/1478-811X-7-4
 11. Ephrins: https://www.ncbi.nlm.nih.gov/gene/1942
-12. FGF: 
+12. FGF: https://en.wikipedia.org/wiki/Fibroblast_growth_factor
 13. Fibronectin: http://jcs.biologists.org/content/joces/115/20/3861.full.pdf
 14. Endothelial Cell Markers
-15. Integrins
-16. Laminins
+15. Integrins: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1929136/pdf/gb-2007-8-5-215.pdf
+16. Laminins: https://www.ncbi.nlm.nih.gov/pubmed/11054876
 17. Myocyte Enhancement Factor
-18. MMP
+18. MMP: https://ac.els-cdn.com/S0945053X99000037/1-s2.0-S0945053X99000037-main.pdf?_tid=56d0c9e8-06d1-11e8-b243-00000aab0f01&acdnat=1517435869_d1b988b3ab2ee9b20bf9d8fac3736e7d
 19. PDGF
 20. TIMP
 21. VEGF
@@ -44,3 +45,4 @@ Ephrin: Gene ephrin A1 encodes a member of the ephrin (EPH) family. The ephrins 
 FGFs (from Wiki): FGFs are multifunctional proteins with a wide variety of effects; they are most commonly mitogens but also have regulatory, morphological, and endocrine effects. They stimulate blood vessel growth, and are important in wound healing. <br><br>
 Fibronectin: (From Wiki) -  Fibronectin is a high-molecular weight (~440kDa) glycoprotein of the extracellular matrix that binds to membrane-spanning receptor proteins called integrins. Similar to integrins, fibronectin binds extracellular matrix components such as collagen, fibrin, and heparan sulfate proteoglycans. Dysregulation of the FGF signalling system underlies a range of diseases, where inhibitors of FGF signalling have shown clinical efficacy. <br><br>
 
+Laminins: They form high-molecular weight (~400 to ~900 kDa) proteins of the extracellular matrix. They are involved in the pathology of a number of organs, including skin, muscle, and nerve. In muscle cells, laminin alpha 2 is a component of the bridge that links the actin cytoskeleton to the extracellular matrix. In patients with laminin alpha 2 mutations, the bridge is disrupted and mature muscle cells apoptose. Congenital muscular dystrophy (CMD) results. 
