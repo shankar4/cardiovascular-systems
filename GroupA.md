@@ -2,7 +2,8 @@ This grouping is from the chapter by McLeon, Mecham, et al., on "Extracellular m
 in a book entitled "Extracellular Matrix in Development and Disease" edited by J.H. Miner, Elsevier, 2005.
 
 (Note: How to add tables in md: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-Note: Elseview publishes a journal called: Matrix Biology (of relevance here). 
+
+Note: Elsevier publishes a journal called: Matrix Biology (of relevance here). 
 
 Ontology annotations of the Gene Ontology Database are used in the grouping. The GO database has three ontologies that take 3 
 different perspecives: molecular function (**MF**) (tasks performed by individual gene products); biological process (**BP**) (broad biological goals that are assembled by ordered assemblies of molecular functions); and cellular components (**CC**) (subcellular structures, locations, and macromolecular complexes). The genes listed include ECM genes, matrix metalloproteinases (MMPs) and related genes, growth factors, signal transduction genes, genes identified as SMC markers and endothelial cell markers.
